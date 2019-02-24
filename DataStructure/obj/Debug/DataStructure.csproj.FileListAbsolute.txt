@@ -1,0 +1,6 @@
+C:\Harsh\CodePractice\git-codebase\DataStructure\DataStructure\bin\Debug\DataStructure.exe
+C:\Harsh\CodePractice\git-codebase\DataStructure\DataStructure\bin\Debug\DataStructure.pdb
+C:\Harsh\CodePractice\git-codebase\DataStructure\DataStructure\obj\Debug\DataStructure.csprojAssemblyReference.cache
+C:\Harsh\CodePractice\git-codebase\DataStructure\DataStructure\obj\Debug\DataStructure.csproj.CoreCompileInputs.cache
+C:\Harsh\CodePractice\git-codebase\DataStructure\DataStructure\obj\Debug\DataStructure.exe
+C:\Harsh\CodePractice\git-codebase\DataStructure\DataStructure\obj\Debug\DataStructure.pdb

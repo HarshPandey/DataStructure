@@ -13,13 +13,14 @@ namespace DataStructure
     {
         static void Main(string[] args)
         {
-            GeeksForGeeks.RunMatrixSumCalculator();
+            //GeeksForGeeks.RunMatrixSumCalculator();
 
             #region ProTest
 
             //ProTest.TestRandom();
             //ProTest.TestLastLines();
-            //ProTest.TestBalancedBrackets();
+            ProTest.TestBalancedBrackets();
+
             // Solve Amazon question 1 
             //ProTest.SolveAmazonProblemA();
             //ProTest.SolveMatrixProblems();
